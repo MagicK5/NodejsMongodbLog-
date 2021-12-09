@@ -12,5 +12,6 @@
     "login"
   ],
   "author": "Magic_K5",
-  "license": "ISC"
+  "license": "GNU",
+  "git repository":"https://github.com/MagicK5/NodejsMongodbLog-"
 }

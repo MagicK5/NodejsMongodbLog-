@@ -13,5 +13,8 @@
   ],
   "author": "Magic_K5",
   "license": "GNU",
-  "git repository":"https://github.com/MagicK5/NodejsMongodbLog-"
+  "git repository": "https://github.com/MagicK5/NodejsMongodbLog-",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
